@@ -1,0 +1,26 @@
+# Maven
+backend/target/
+backend/*.jar
+backend/*.war
+backend/*.ear
+
+# Node.js
+frontend/node_modules/
+frontend/build/
+frontend/.pnp
+frontend/.pnp.js
+frontend/coverage/
+
+# Logs
+*.log
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
